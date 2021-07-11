@@ -4,13 +4,13 @@
 
 ## Group members
 
-| NMec | Name | email |
-|--:|---|---|
-| 97505 | Alexandre Serras | alexandreserras@ua.pt |
-| 98388 | Ricardo Rodriguez | ricardorodriguez@ua.pt |
-| 98430 | Paulo Pereira | paulogspereira@ua.pt |
-| 98008 | Gonçalo Leal | goncalolealsilva@ua.pt |
-| 98474 | João Reis | joaoreis16@ua.pt |
+| Name | GitHub |
+|--:|---|
+| Alexandre Serras | [alexandreserras](https://github.com/alexandreserras) |
+| Ricardo Rodriguez | [ricardombrodriguez](https://github.com/ricardombrodriguez) |
+| Paulo Pereira | [PauloGSP](https://github.com/PauloGSP)|
+| Gonçalo Leal | [goncalo-leal](https://github.com/goncalo-leal)|
+| João Reis | [joaoreis16](https://github.com/joaoreis16)|
 
 ## Folder organization
 

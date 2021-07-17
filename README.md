@@ -1,5 +1,5 @@
-# C_project
-Projeto de Compiladores
+# Projeto de Compiladores
+Projeto sobre a contrução de uma linguagem de programação para elaborar Quizes para a U.C. de Compiladores
 
 ## Group members
 

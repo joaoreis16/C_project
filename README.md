@@ -1,5 +1,5 @@
 # Projeto de Compiladores
-Projeto sobre a contrução de uma linguagem de programação para elaborar Quizes para a U.C. de Compiladores
+Projeto sobre a contrução de uma linguagem de programação para elaborar Quizes no âmbito da U.C. de Compiladores
 
 ## Group members
 
